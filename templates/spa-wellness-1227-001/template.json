@@ -1,0 +1,59 @@
+{
+  "id": "spa-wellness-1227-001",
+  "name": "Spa Wellness 1227 001",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "spa",
+    "wellness",
+    "medical-spa"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [
+    "luxury",
+    "wellness",
+    "editorial"
+  ],
+  "features": [],
+  "source": {
+    "provider": "internal",
+    "templateUrl": "https://www.aura.build/templates/spa-wellness-1227",
+    "previewUrl": "local-export.html",
+    "capturedAt": "2026-08-29T07:19:11.641566+00:00",
+    "region": "United Kingdom",
+    "captureMode": "local-html-with-clone-evidence"
+  },
+  "sourceMetadata": {
+    "title": "Starleve Spa & Wellness | Discover Your Inner Radiance",
+    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  },
+  "generatedAssets": {
+    "logo": "assets/maggie-mark.webp",
+    "hero": "assets/maggie-hero-01.webp",
+    "careTeam": "assets/maggie-care-team.webp",
+    "provider": "built-in-image-generation",
+    "generatedAt": "2026-08-29T08:18:00+01:00"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "thai-massage-49-001",
+  "name": "Thai Massage 49 001",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "spa"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [],
+  "features": [],
+  "source": {
+    "provider": "internal",
+    "templateUrl": "https://www.aura.build/templates/thai-massage-49",
+    "previewUrl": "local-export.html",
+    "capturedAt": "2026-08-29T09:49:35.336832+00:00",
+    "region": "United Kingdom",
+    "captureMode": "local-html-with-clone-evidence"
+  },
+  "sourceMetadata": {
+    "title": "Ayutthaya Massage | Traditionelle Thai-Massage & Spa",
+    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  },
+  "generatedAssets": {
+    "logo": "assets/maggie-mark.png",
+    "hero": "assets/maggie-hero.png",
+    "careTeam": "assets/maggie-care-team.png",
+    "provider": "maggie-marketplace-pipeline",
+    "generatedAt": "2026-08-29T09:49:35.485751+00:00"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "lillies-spa-beauty-salon-001",
+  "name": "Maggie Studio Beauty Salon 001",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "spa",
+    "wellness",
+    "beauty"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [
+    "luxury",
+    "editorial",
+    "british"
+  ],
+  "features": [],
+  "source": {
+    "provider": "internal",
+    "templateUrl": "https://www.aura.build/templates/lillies-spa-beauty-salon",
+    "previewUrl": "local-export.html",
+    "capturedAt": "2026-08-29T07:34:17.788324+00:00",
+    "region": "United Kingdom",
+    "captureMode": "local-html-with-clone-evidence"
+  },
+  "sourceMetadata": {
+    "title": "Maggie Studio | Considered beauty and wellbeing in London",
+    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  },
+  "generatedAssets": {
+    "logo": "assets/maggie-mark.webp",
+    "hero": "assets/maggie-hero-01.webp",
+    "careTeam": "assets/maggie-care-team.webp",
+    "provider": "built-in-image-generation",
+    "generatedAt": "2026-08-29T07:40:35.335942+00:00"
+  }
+}

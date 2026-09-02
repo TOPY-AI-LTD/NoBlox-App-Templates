@@ -1,0 +1,59 @@
+{
+  "id": "gold-pearl-resort-oyugis-k-001",
+  "name": "Gold Pearl Resort Oyugis K 001",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "spa",
+    "wellness",
+    "hospitality"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [
+    "premium",
+    "resort",
+    "editorial"
+  ],
+  "features": [],
+  "source": {
+    "provider": "internal",
+    "templateUrl": "https://www.aura.build/templates/gold-pearl-resort-oyugis-k",
+    "previewUrl": "local-export.html",
+    "capturedAt": "2026-08-29T05:47:36.610429+00:00",
+    "region": "United Kingdom",
+    "captureMode": "local-html-with-clone-evidence"
+  },
+  "sourceMetadata": {
+    "title": "Gold Pearl Resort",
+    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  },
+  "generatedAssets": {
+    "logo": "assets/maggie-mark.png",
+    "hero": "assets/maggie-hero.png",
+    "careTeam": "assets/maggie-care-team.png",
+    "provider": "maggie-marketplace-pipeline",
+    "generatedAt": "2026-08-29T05:47:36.751315+00:00"
+  }
+}

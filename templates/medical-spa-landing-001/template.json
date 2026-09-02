@@ -1,0 +1,58 @@
+{
+  "id": "medical-spa-landing-001",
+  "name": "Medical Spa Landing 001",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "spa",
+    "medical-spa",
+    "wellness"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [
+    "premium",
+    "clinical",
+    "conversion-focused"
+  ],
+  "features": [],
+  "source": {
+    "provider": "internal",
+    "region": "United Kingdom",
+    "capturedAt": "2026-08-29T02:12:25.279793+00:00",
+    "captureInput": "local-export",
+    "captureFile": "Medical Aesthetics & Wellness Landing Page Template.html"
+  },
+  "sourceMetadata": {
+    "title": "Medical Aesthetics & Wellness Landing Page Template",
+    "description": "A high-end, brand-forward landing page template designed for UK medical spas, wellness clinics, and aesthetic practitioners to showcase services and invite consultations."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json"
+  },
+  "generatedAssets": {
+    "logo": "assets/lumen-mark.png",
+    "hero": "assets/lumen-hero.png",
+    "careTeam": "assets/lumen-director.png",
+    "provider": "built-in-image-generation",
+    "generatedAt": "2026-08-29"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  }
+}

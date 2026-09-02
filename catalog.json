@@ -1,0 +1,443 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-08-29T11:49:19.239810+00:00",
+  "templates": [
+    {
+      "id": "atma-wellness-15-001",
+      "name": "Atma Wellness 15 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness",
+        "medical-spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "luxury",
+        "wellness",
+        "editorial"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/atma-wellness-15",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T06:19:50.403770+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "beauty-studio-20-001",
+      "name": "Beauty Studio 20 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/beauty-studio-20",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T09:41:25.619210+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "gold-pearl-resort-oyugis-k-001",
+      "name": "Gold Pearl Resort Oyugis K 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness",
+        "hospitality"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "premium",
+        "resort",
+        "editorial"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/gold-pearl-resort-oyugis-k",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T05:47:36.610429+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "korean-head-spa-52-001",
+      "name": "Korean Head Spa 52 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/korean-head-spa-52",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T10:08:56.835205+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "lillies-spa-beauty-salon-001",
+      "name": "Maggie Studio Beauty Salon 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness",
+        "beauty"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "luxury",
+        "editorial",
+        "british"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/lillies-spa-beauty-salon",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T07:34:17.788324+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "luxury-medspa-27-001",
+      "name": "Luxury Medspa 27 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "medical-spa",
+        "wellness"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "luxury",
+        "clinical",
+        "editorial"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/luxury-medspa-27",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T06:07:36.304999+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "medical-spa-landing-001",
+      "name": "Medical Spa Landing 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "medical-spa",
+        "wellness"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "premium",
+        "clinical",
+        "conversion-focused"
+      ],
+      "source": {
+        "provider": "internal",
+        "region": "United Kingdom",
+        "capturedAt": "2026-08-29T02:12:25.279793+00:00",
+        "captureInput": "local-export"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "reflexolog-spa-7-001",
+      "name": "Reflexolog Spa 7 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/reflexolog-spa-7",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T10:07:43.747129+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "spa-wellness-1227-001",
+      "name": "Spa Wellness 1227 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness",
+        "medical-spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "luxury",
+        "wellness",
+        "editorial"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/spa-wellness-1227",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T07:19:11.641566+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "stillpoint2-001",
+      "name": "Stillpoint2 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness",
+        "medical-spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "calm",
+        "editorial",
+        "luxury"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/stillpoint2",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T06:22:53.443188+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "thai-massage-49-001",
+      "name": "Thai Massage 49 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/thai-massage-49",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T09:49:35.336832+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "wellness-booking-72-001",
+      "name": "Wellness Booking 72 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/wellness-booking-72",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T11:24:18.064744+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    },
+    {
+      "id": "wellness-float-11-001",
+      "name": "Wellness Float 11 001",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "spa",
+        "wellness",
+        "medical-spa"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "luxury",
+        "wellness",
+        "editorial"
+      ],
+      "source": {
+        "provider": "internal",
+        "templateUrl": "https://www.aura.build/templates/wellness-float-11",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-08-29T07:23:39.121704+00:00",
+        "region": "United Kingdom",
+        "captureMode": "local-html-with-clone-evidence"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      }
+    }
+  ]
+}

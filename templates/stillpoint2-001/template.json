@@ -1,0 +1,59 @@
+{
+  "id": "stillpoint2-001",
+  "name": "Stillpoint2 001",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "spa",
+    "wellness",
+    "medical-spa"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [
+    "calm",
+    "editorial",
+    "luxury"
+  ],
+  "features": [],
+  "source": {
+    "provider": "internal",
+    "templateUrl": "https://www.aura.build/templates/stillpoint2",
+    "previewUrl": "local-export.html",
+    "capturedAt": "2026-08-29T06:22:53.443188+00:00",
+    "region": "United Kingdom",
+    "captureMode": "local-html-with-clone-evidence"
+  },
+  "sourceMetadata": {
+    "title": "Stillpoint Recovery Studio",
+    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  },
+  "generatedAssets": {
+    "logo": "assets/162b4f84e17b6a7e.jpg",
+    "hero": "assets/2cc4e5bc7a506640.jpg",
+    "careTeam": "assets/4ffdfdb462b3a9dd.jpg",
+    "provider": "maggie-marketplace-pipeline",
+    "generatedAt": "2026-08-29T06:22:53.591424+00:00"
+  }
+}
