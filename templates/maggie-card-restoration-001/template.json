@@ -1,0 +1,59 @@
+{
+  "id": "maggie-card-restoration-001",
+  "name": "Maggie Studio Card Restoration",
+  "status": "draft",
+  "framework": "astro",
+  "industry": [
+    "collectibles",
+    "restoration"
+  ],
+  "pageTypes": [
+    "homepage",
+    "landing-page"
+  ],
+  "styleTags": [
+    "pokemon",
+    "cards",
+    "repair"
+  ],
+  "features": [],
+  "source": {
+    "provider": "maggie-studio",
+    "templateUrl": "local-export.html",
+    "previewUrl": "local-export.html",
+    "capturedAt": "2026-09-02T23:31:20.413228+00:00",
+    "region": "United Kingdom",
+    "captureMode": "preview-url"
+  },
+  "sourceMetadata": {
+    "title": "Pokemon Card Restoration & Repair Service | Fix Damaged Cards | Poke-Fix",
+    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+  },
+  "supports": {
+    "blog": true,
+    "bookingCta": true,
+    "ga4": true,
+    "gsc": true,
+    "aiCmoApiPull": true,
+    "maggieOps": true
+  },
+  "artifacts": {
+    "rawHtml": "source/source.html",
+    "sanitizedHtml": "homepage.html",
+    "screenshots": "screenshots/",
+    "assets": "assets/",
+    "cloneManifest": "source/clone-manifest.json",
+    "tasks": "tasks.json"
+  },
+  "licenseReview": {
+    "status": "required",
+    "notes": "Confirm source template reuse rights before publishing or distributing."
+  },
+  "generatedAssets": {
+    "logo": "assets/maggie-mark.png",
+    "hero": "assets/maggie-hero.png",
+    "careTeam": "assets/maggie-care-team.png",
+    "provider": "maggie-marketplace-pipeline",
+    "generatedAt": "2026-09-02T23:38:58.297715+00:00"
+  }
+}

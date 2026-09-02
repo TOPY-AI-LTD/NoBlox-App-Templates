@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| **13** | Template directions |
+| **14** | Template directions |
 | **3** | Preview sizes — desktop, tablet, mobile |
 | **Astro-ready** | Designed for fast, content-friendly sites |
 | **Registry-first** | Lightweight discovery with on-demand artifacts |
@@ -64,7 +64,11 @@ These previews are rendered from each template's `homepage.html` at a fixed
   </tr>
   <tr>
     <td width="50%" valign="top"><a href="screenshots/wellness-float-11-001/desktop.png"><img src="screenshots/wellness-float-11-001/desktop.png" alt="Wellness Float 11 001 desktop preview" /></a><h3>Wellness Float 11 001</h3><p>Float therapy · minimal · restorative</p></td>
+    <td width="50%" valign="top"><a href="screenshots/maggie-card-restoration-001/desktop.png"><img src="screenshots/maggie-card-restoration-001/desktop.png" alt="Maggie Studio Card Restoration desktop preview" /></a><h3>Maggie Studio Card Restoration</h3><p>Collectibles · repair · tracking-led</p></td>
+  </tr>
+  <tr>
     <td width="50%" valign="top"><strong>More directions coming soon.</strong><p>New entries will use the same metadata, preview, provenance, and validation contract.</p></td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 

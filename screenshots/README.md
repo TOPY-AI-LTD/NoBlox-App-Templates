@@ -19,3 +19,4 @@ only; it is not a license grant for the underlying source design or assets.
 | thai-massage-49-001 | [homepage.png](thai-massage-49-001/homepage.png) | [tablet.png](thai-massage-49-001/tablet.png) | [mobile.png](thai-massage-49-001/mobile.png) |
 | wellness-booking-72-001 | [homepage.png](wellness-booking-72-001/homepage.png) | [tablet.png](wellness-booking-72-001/tablet.png) | [mobile.png](wellness-booking-72-001/mobile.png) |
 | wellness-float-11-001 | [homepage.png](wellness-float-11-001/homepage.png) | [tablet.png](wellness-float-11-001/tablet.png) | [mobile.png](wellness-float-11-001/mobile.png) |
+| maggie-card-restoration-001 | [desktop.png](maggie-card-restoration-001/desktop.png) | [tablet.png](maggie-card-restoration-001/tablet.png) | [mobile.png](maggie-card-restoration-001/mobile.png) |

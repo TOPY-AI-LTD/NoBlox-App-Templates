@@ -404,6 +404,45 @@
       }
     },
     {
+      "id": "maggie-card-restoration-001",
+      "name": "Maggie Studio Card Restoration",
+      "status": "draft",
+      "framework": "astro",
+      "industry": [
+        "collectibles",
+        "restoration"
+      ],
+      "pageTypes": [
+        "homepage",
+        "landing-page"
+      ],
+      "styleTags": [
+        "pokemon",
+        "cards",
+        "repair"
+      ],
+      "source": {
+        "provider": "maggie-studio",
+        "templateUrl": "https://poke-fix.com/",
+        "previewUrl": "local-export.html",
+        "capturedAt": "2026-09-02T23:31:20.413228+00:00",
+        "region": "United Kingdom",
+        "captureMode": "preview-url"
+      },
+      "supports": {
+        "blog": true,
+        "bookingCta": true,
+        "ga4": true,
+        "gsc": true,
+        "aiCmoApiPull": true,
+        "maggieOps": true
+      },
+      "licenseReview": {
+        "status": "required",
+        "notes": "Confirm source template reuse rights before publishing or distributing. Final package uses generated Maggie Studio assets."
+      }
+    },
+    {
       "id": "wellness-float-11-001",
       "name": "Wellness Float 11 001",
       "status": "draft",
