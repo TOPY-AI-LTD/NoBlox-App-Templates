@@ -25,7 +25,8 @@ production-ready templates.
 ```text
 catalog.json
 templates/<template-id>/template.json
-screenshots/<template-id>/desktop.png
+templates/<template-id>/preview.png
+screenshots/<template-id>/homepage.png
 ```
 
 Desktop previews are indexed in [`screenshots/README.md`](screenshots/README.md).
