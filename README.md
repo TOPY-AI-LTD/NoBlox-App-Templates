@@ -25,7 +25,10 @@ production-ready templates.
 ```text
 catalog.json
 templates/<template-id>/template.json
+screenshots/<template-id>/desktop.png
 ```
+
+Desktop previews are indexed in [`screenshots/README.md`](screenshots/README.md).
 
 The full artifact contract will add a versioned release manifest, SHA-256,
 preview assets, compatibility data, and license evidence. Generated workspaces,
