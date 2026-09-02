@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://noblox.app/"><img src="assets/noblox-logo-dark.png" alt="NoBlox" width="180" /></a>
+  <a href="https://noblox.app/"><img src="assets/noblox-logo.png" alt="NoBlox" width="180" /></a>
   <h1>NoBlox App Templates</h1>
   <p><strong>Fast, focused foundations for sites built to get found.</strong></p>
   <p>Reusable homepage templates and visual directions for NoBlox-powered websites.</p>
