@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-08-29T11:49:19.239810+00:00",
+  "updatedAt": "2026-09-03T07:00:00+00:00",
   "templates": [
     {
       "id": "atma-wellness-15-001",
@@ -419,7 +419,9 @@
       "styleTags": [
         "pokemon",
         "cards",
-        "repair"
+        "repair",
+        "premium",
+        "dark-light-contrast"
       ],
       "source": {
         "provider": "maggie-studio",
@@ -427,7 +429,7 @@
         "previewUrl": "local-export.html",
         "capturedAt": "2026-09-02T23:31:20.413228+00:00",
         "region": "United Kingdom",
-        "captureMode": "preview-url"
+        "captureMode": "local-html-with-clone-evidence"
       },
       "supports": {
         "blog": true,

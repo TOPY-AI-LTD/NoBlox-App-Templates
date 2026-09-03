@@ -14,20 +14,29 @@
   "styleTags": [
     "pokemon",
     "cards",
-    "repair"
+    "repair",
+    "premium",
+    "dark-light-contrast"
   ],
-  "features": [],
+  "features": [
+    "responsive-homepage",
+    "before-after-tabs",
+    "transparent-pricing",
+    "order-tracking-story",
+    "phosphor-icons",
+    "dhahaby-avax-palette"
+  ],
   "source": {
     "provider": "maggie-studio",
     "templateUrl": "local-export.html",
     "previewUrl": "local-export.html",
     "capturedAt": "2026-09-02T23:31:20.413228+00:00",
     "region": "United Kingdom",
-    "captureMode": "preview-url"
+    "captureMode": "local-html-with-clone-evidence"
   },
   "sourceMetadata": {
     "title": "Pokemon Card Restoration & Repair Service | Fix Damaged Cards | Poke-Fix",
-    "description": "A considered UK destination for personalised care, treatments and wellbeing from Maggie Studio."
+    "description": "A conversion-focused UK homepage for professional Pokemon card restoration, with transparent pricing, before-and-after proof, order tracking, and insured return shipping."
   },
   "supports": {
     "blog": true,
@@ -54,6 +63,18 @@
     "hero": "assets/maggie-hero.png",
     "careTeam": "assets/maggie-care-team.png",
     "provider": "maggie-marketplace-pipeline",
-    "generatedAt": "2026-09-02T23:38:58.297715+00:00"
+    "generatedAt": "2026-09-02T23:38:58.297715+00:00",
+    "contentImages": [
+      "assets/pokemon-card-01.jpg",
+      "assets/pokemon-card-02.jpg",
+      "assets/pokemon-card-03.jpg",
+      "assets/pokemon-card-04.jpg"
+    ]
+  },
+  "implementation": {
+    "palette": "Dhahaby AVAX-inspired gold, warm ivory, and charcoal",
+    "contentWidth": "1200px shared by header, hero, sections, and footer",
+    "sectionOrder": ["hero", "proof", "chain-of-custody", "results", "how-it-works", "pricing", "tracking", "restoration-scope", "guarantee", "faq", "final-cta", "footer"],
+    "responsiveScreenshots": ["screenshots/desktop.png", "screenshots/tablet.png", "screenshots/mobile.png"]
   }
 }
